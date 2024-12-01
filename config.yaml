@@ -1,0 +1,8 @@
+/mock/users:
+  response:
+    - id: 1
+      name: 'John Doe'
+    - id: 2
+      name: 'Jane Smith'
+  status_code: 200
+  delay: 2 # seconds
